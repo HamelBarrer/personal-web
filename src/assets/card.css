@@ -1,0 +1,11 @@
+.card {
+  padding: 1rem;
+  background-color: #282730;
+  border-radius: 0.7rem;
+}
+
+.card__title {
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+}

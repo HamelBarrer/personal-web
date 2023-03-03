@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.form__group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.form__input {
+  border: 1px solid #fff;
+  padding: 0.7rem;
+  color: #fff;
+  border-radius: 0.5rem;
+}
+
+.form__buttons {
+  display: flex;
+  flex-direction: column;
+}
